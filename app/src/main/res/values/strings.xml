@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Second app</string>
+    <string name="academy">Academy</string>
+    <string name="light_sensor">Czujnik światła</string>
+    <string name="magnetic_field">Pole magnetyczne</string>
+    <string name="accelerometer">Akcelerometr</string>
+</resources>
